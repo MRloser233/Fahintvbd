@@ -1,0 +1,8 @@
+<resources>
+    <color name="ink">#080B10</color>
+    <color name="panel">#111722</color>
+    <color name="panel_soft">#1C2634</color>
+    <color name="brand">#00D084</color>
+    <color name="brand_alt">#FFB000</color>
+    <color name="text">#F5F7FA</color>
+</resources>
